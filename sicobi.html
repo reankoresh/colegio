@@ -105,6 +105,7 @@
                                 <button class="btn btn-block primary-solid-btn border-radius mt-4 mb-3" type="button" onclick=go()>
                                     Ingresar
                                 </button>
+                                <div class="alert alert-danger incorrecto d-none" role="alert"> Usuario o Contraseña incorrectos</div>
                             </form>
                         </div>
                     </div>
@@ -121,11 +122,11 @@
     <script>
         
     function go() {
-        if (document.getElementById("username").value=='admin@gmail.com' && document.getElementById("userpassword").value=='root'){ 
-                location.href="index.html";
+        if (document.getElementById("username").value=='cbmclaudia.alvarado@gmail.com' && document.getElementById("userpassword").value=='root'){ 
+                location.href="reporte.html";
                }else
                {
-                alert('Ingresa la contraseña correcta');   
+                document.querySelector(".incorrecto").classList.remove('d-none');
                } 
     }
     </script>
