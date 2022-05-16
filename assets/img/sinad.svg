@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#60C2E5;}
+	.st4{fill:none;stroke:#E5E5E5;stroke-width:6;stroke-miterlimit:10;}
+</style>
+<g>
+	<polygon class="st0" points="430.49,347.39 85.59,347.39 257.14,54.37 	"/>
+	<polygon class="st1" points="430.49,347.39 258.99,448.55 85.62,350.61 83.76,151.5 255.27,50.33 428.63,148.28 	"/>
+	<line class="st1" x1="81.89" y1="149.29" x2="430.49" y2="347.39"/>
+	<line class="st1" x1="85.59" y1="347.39" x2="428.63" y2="148.28"/>
+	<line class="st1" x1="257.13" y1="51.14" x2="258.99" y2="448.55"/>
+	<circle class="st2" cx="256.19" cy="51" r="29.46"/>
+	<circle class="st2" cx="430.49" cy="149.29" r="29.46"/>
+	<circle class="st2" cx="258.06" cy="247.34" r="29.46"/>
+	<circle class="st2" cx="81.89" cy="149.29" r="29.46"/>
+	<circle class="st2" cx="81.89" cy="344.34" r="29.46"/>
+	<circle class="st2" cx="257.13" cy="443.54" r="29.46"/>
+	<circle class="st2" cx="430.49" cy="344.34" r="29.46"/>
+	<g>
+		<circle class="st3" cx="246.23" cy="66.65" r="28.8"/>
+	</g>
+	<g>
+		<circle class="st3" cx="416.66" cy="162.75" r="28.8"/>
+	</g>
+	<g>
+		<circle class="st3" cx="248.06" cy="258.62" r="28.8"/>
+	</g>
+	<g>
+		<circle class="st3" cx="75.8" cy="162.75" r="28.8"/>
+	</g>
+	<g>
+		<circle class="st3" cx="75.8" cy="353.47" r="28.8"/>
+	</g>
+	<g>
+		<circle class="st3" cx="247.15" cy="450.46" r="28.8"/>
+	</g>
+	<g>
+		<circle class="st3" cx="416.66" cy="353.47" r="28.8"/>
+	</g>
+	<circle class="st4" cx="257.13" cy="51.14" r="28.34"/>
+	<circle class="st4" cx="81.89" cy="149.29" r="28.34"/>
+	<circle class="st4" cx="429.68" cy="149.29" r="28.34"/>
+	<circle class="st4" cx="81.89" cy="344.34" r="28.34"/>
+	<circle class="st4" cx="429.68" cy="344.34" r="28.34"/>
+	<circle class="st4" cx="257.13" cy="443.54" r="28.34"/>
+	<circle class="st4" cx="257.13" cy="247.34" r="28.34"/>
+</g>
+</svg>

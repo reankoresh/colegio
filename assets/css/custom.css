@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Branding';
+    src: url('../fonts/Branding SF Bold.otf');
+}
+.footer-color{
+    background: -webkit-gradient(linear, bottom bottom, top top, from(#051c2c), to(#002e6d)) !important;
+    background: linear-gradient(360deg, #051c2c, #002e6d) !important;
+}
+.footer-bottom-color{
+    background: #051c2c !important;
+}
+.bg-1{
+    background-image: url('/assets/img/bg-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-light{
+background: rgb(233, 232, 232);    
+}
+.bg-gray{
+background: rgb(245, 245, 245);
+}
+.bg-gray-dark{
+background: rgb(245, 245, 245);
+}
+.bg-planteles{
+    background-image: url('/assets/img/bg-planteles.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.bg-modulos{
+    background: #1934a7;
+}
+
+.rotate {
+    animation: rotation 6s infinite linear;
+  }
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+  #map {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+}
+ 
